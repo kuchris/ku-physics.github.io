@@ -9,7 +9,7 @@ permalink: /
 # About Me
 {: .fs-9 }
 
-I am Chris from Hong Kong
+I am Chris from Hong Kong.
 {: .fs-6 .fw-300 }
 
 ---
