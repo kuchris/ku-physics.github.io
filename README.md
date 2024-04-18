@@ -3,9 +3,9 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://just-the-docs.com/">See it in action!</a></strong></p>
+    <h1 align="center">KuChris' personal webpage</h1>
+    <p align="center">For me.</p>
+    <p align="center"><strong><a href="https://just-the-docs.com/"></a></strong></p>
     <br><br><br>
 </p>
 
