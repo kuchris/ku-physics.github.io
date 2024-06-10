@@ -9,7 +9,7 @@ permalink: /
 # About Me
 {: .fs-9 }
 
-![Alt text](../assets/images/me.png){: width="200"}
+![Alt text](../assets/images/me.jpg){: width="200"}
 
 I am Chris from Hong Kong. My interest are cold atom and computational physics.
 {: .fs-6 .fw-300 }
