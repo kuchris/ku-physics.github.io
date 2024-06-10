@@ -102,9 +102,9 @@ mermaid:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-#aux_links:
-#  "Just the Docs on GitHub":
-#    - "https://github.com/just-the-docs/just-the-docs"
+aux_links:
+  "GitHub":
+    - "https://github.com/kuchris/kuphysics"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -115,7 +115,9 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Just the Docs on GitHub
+  - title: test1
+    url: https://github.com/just-the-docs/just-the-docs
+  - title: test2
     url: https://github.com/just-the-docs/just-the-docs
 
 liquid:
