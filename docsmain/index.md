@@ -9,7 +9,7 @@ permalink: /
 # About Me
 {: .fs-9 }
 
-I am Chris from Hong Kong. I love Physics. My interest are cool atom and computational physics.
+I am Chris from Hong Kong. I love Physics. My interest are cold atom and computational physics.
 {: .fs-6 .fw-300 }
 
 ---
