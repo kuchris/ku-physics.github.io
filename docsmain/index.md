@@ -17,7 +17,7 @@ I am Chris from Hong Kong. My interest are cold atom and computational physics.
 
 ---
 
-![](../assets/images/about-background.jpg)
+![](assets/images/about-background.jpg)
 
 I love Physics.
 
